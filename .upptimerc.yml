@@ -7,7 +7,7 @@ sites:
   - name: Main
     url: https://zyrouge.gq
   - name: Backend
-    url: https://server.zyrouge.gq
+    url: https://server.zyrouge.gq/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
