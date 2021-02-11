@@ -10,6 +10,8 @@ sites:
     url: https://server.zyrouge.gq/ping
   - name: Guides
     url: https://guides.zyrouge.gq
+  - name: Projects
+    url: https://projects.zyrouge.gq
   - name: Genius-Lyrics Docs
     url: https://genius-lyrics.zyrouge.gq
   - name: Keyvify Docs
