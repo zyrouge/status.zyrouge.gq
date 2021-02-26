@@ -4,8 +4,8 @@ repo: status.zyrouge.gq # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Main
-    url: https://zyrouge.gq
+#  - name: Main
+#    url: https://zyrouge.gq
   - name: Backend
     url: https://server.zyrouge.gq/ping
   - name: Guides
