@@ -8,8 +8,8 @@ sites:
     url: https://zyrouge.gq
   - name: Backend
     url: https://server.zyrouge.gq/ping
-  - name: Guides
-    url: https://guides.zyrouge.gq
+  - name: Blog
+    url: https://blog.zyrouge.gq
   - name: Projects
     url: https://projects.zyrouge.gq
   - name: Genius-Lyrics Docs
