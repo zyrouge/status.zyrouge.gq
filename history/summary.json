@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/zyrouge.gq",
     "slug": "main",
     "status": "down",
-    "uptime": "90.23%",
+    "uptime": "90.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.23%",
+    "uptimeYear": "90.45%",
     "time": 2221,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 539,
+    "timeMonth": 541,
     "timeYear": 2221,
     "dailyMinutesDown": {
       "2021-03-01": 821,
@@ -39,7 +39,7 @@
     "time": 349,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 390,
+    "timeMonth": 385,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2021-02-20": 51,
@@ -60,7 +60,7 @@
     "time": 501,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 574,
+    "timeMonth": 584,
     "timeYear": 501,
     "dailyMinutesDown": {}
   },
@@ -78,7 +78,7 @@
     "time": 271,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 445,
+    "timeMonth": 443,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -96,7 +96,7 @@
     "time": 288,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 531,
+    "timeMonth": 551,
     "timeYear": 288,
     "dailyMinutesDown": {}
   },
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 286,
-    "timeWeek": 166,
+    "time": 144,
+    "timeDay": 94,
+    "timeWeek": 162,
     "timeMonth": 170,
-    "timeYear": 145,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -132,7 +132,7 @@
     "time": 252,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 403,
+    "timeMonth": 412,
     "timeYear": 252,
     "dailyMinutesDown": {}
   }
